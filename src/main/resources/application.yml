@@ -1,0 +1,6 @@
+org.yny.sample:
+  gemfire:
+    locator:
+      host: localhost
+      port: 10334
+    dataModelPackage: org.yny.sample.model.*
