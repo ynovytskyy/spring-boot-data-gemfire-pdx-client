@@ -4,3 +4,5 @@ org.yny.sample:
       host: localhost
       port: 10334
     dataModelPackage: org.yny.sample.model.*
+server:
+  port: 8088
