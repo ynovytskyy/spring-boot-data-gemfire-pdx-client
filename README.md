@@ -11,6 +11,5 @@ to external GemFire from Spring Boot based Java application to GemFire as a clie
 - Pivotal GemFire a.k.a. Apache Geode
 
 ## TODO
-- proper serialization of Java8 Date
-- test brings up local GemFire
+- tests suing local GemFire
 
